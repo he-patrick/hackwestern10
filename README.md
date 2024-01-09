@@ -1,3 +1,5 @@
+Devpost: https://devpost.com/software/translate-dyu8jl?ref_content=user-portfolio&ref_feature=in_progress
+
 ## Inspiration 💡 
 With over 300 sign languages and 7000 dialects, the lack of translation resources bridging these forms of communication has been a significant barrier for deaf and speech-impaired communities. Despite the abundance of applications that can convert one verbal dialect to another, the world is still in search of a product that is capable of creating sign language accessibility. Thus, it is our goal to create a unique translation application that can help others to understand sign language and break down these language barriers one by one.
 
